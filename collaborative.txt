@@ -1,1 +1,10 @@
-# TODO: add some text here
+# Collaborative Document
+
+## Contributors
+- Alice: Loves hiking and photography.
+- Bob: Enjoys reading sci-fi and coding.
+- Noam: 21
+
+## Fun Facts about Git
+- Git was created by Linus Torvalds in 2005.
+
